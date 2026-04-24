@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1c4e6214-fca8-49e3-a21b-a4c1ea66cf7e",
+  "export_job_id": "c8ee0aa3-2976-4ca6-ab06-70f4da28a6ff",
   "id_short": 864473,
-  "published_at": "2026-04-19T19:47:06Z",
+  "published_at": "2026-04-24T07:02:15Z",
   "repo_name": "restaurants-that-surged-25-in-transaction-velocity-this-quarter-in-virginia-sample-864473",
   "sample_asset_name": "beamstation_864473_food_and_drink-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/864473/beamstation_864473_food_and_drink-us-va_SAMPLE_DIST.csv",
-  "sample_records": 16,
-  "sample_sha256": "d7e4e4d05d43b3865752ec35f99ad8a4615b5b975033ddbd29fd28d6c28581af",
-  "sample_size_bytes": 49464,
-  "total_records": 169
+  "sample_records": 14,
+  "sample_sha256": "ae2e7fdbe78b4df155b71a269033baab9ec3e2ae07df5d85be9527253c9820e3",
+  "sample_size_bytes": 66837,
+  "total_records": 143
 }
