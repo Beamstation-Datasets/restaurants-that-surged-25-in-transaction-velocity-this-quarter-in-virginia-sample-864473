@@ -1,6 +1,6 @@
 # Restaurants That Surged 25%+ in Transaction Velocity This Quarter in Virginia
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `864473` |
 | Location | Virginia |
 | Category | Food and Drink |
-| Full dataset size | 143 records |
-| Free sample size | 14 records (9.79%) |
-| Last export | 2026-04-23T20:15:34.554553+00:00 |
+| Full dataset size | 179 records |
+| Free sample size | 17 records (9.5%) |
+| Last export | 2026-05-01T11:01:59.726263+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurants-that-surged-25-in-transaction-velocity-this-quarter-in-virginia-sample-864473/releases/download/sample-latest/beamstation_864473_food_and_drink-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
